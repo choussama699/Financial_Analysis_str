@@ -23,6 +23,4 @@ The analysis focuses on key financial ratios that highlight the company's **liqu
 
 Here is the visual dashboard of the calculated ratios:  
 
-(financial_kpis.png) 
-   git clone https://github.com/YourUsername/financial-analysis-stc.git
-   cd financial-analysis-stc
+(financial_kpis.png) in the files of this repo
